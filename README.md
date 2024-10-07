@@ -1,2 +1,2 @@
 # Cooking Apps | Rifqy Fauzan
-[preview img](preview.png)
+![preview img](/preview.png)
